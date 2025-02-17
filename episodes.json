@@ -1,0 +1,105 @@
+{
+  "anime_list": {
+    "theapothecarydiaries": {
+      "s1": {
+        "1": {
+          "360p": {
+            "file_id": "BAACAgUAAxkBAAMbZ6wYmdg44cGLMNiPjfv7VrcPUC8AAtkUAAIC3FlVxieCkZpBHKc2BA",
+            "size": "34.4 MB"
+          },
+          "720p": {
+            "file_id": "BAACAgUAAxkBAAMeZ6wYpxfjVM2N5tGesZv-W7v_P2MAAtoUAAIC3FlVWYDm1GtWtNc2BA",
+            "size": "105.6 MB"
+          },
+          "1080p": {
+            "file_id": "BAACAgUAAxkBAAMhZ6wYsEVy4IaocVWhxQILHrf0_kQAAtsUAAIC3FlVgVtG-PMRcpw2BA",
+            "size": "201.5 MB"
+          }
+        },
+        "2": {
+          "360p": {
+            "file_id": "BAACAgUAAxkBAAMpZ6wYwxTXTtHD9VP1_w_MM1B5hecAAv8QAAI5AWBVZEIm3TecsQ82BA",
+            "size": "50.7 MB"
+          },
+          "720p": {
+            "file_id": "BAACAgUAAxkBAAMsZ6wY1KUh6HtIQTbYZxc_zE0M0RIAApIRAAIC3GFVyXzdFWIdvRA2BA",
+            "size": "96.5 MB"
+          },
+          "1080p": {
+            "file_id": "BAACAgUAAxkBAAMvZ6wY372fm2qGuoYXFnRsqU2d1_IAApERAAIC3GFViFF9hs9niEI2BA",
+            "size": "184.3 MB"
+          }
+        },
+        "3": {
+          "360p": {
+            "file_id": "BAACAgUAAxkBAAM3Z6wY8UBGgX7bmIawmD9-lXRx5tYAApQRAAIC3GFVf5oGh6SOvgc2BA",
+            "size": "28.8 MB"
+          },
+          "720p": {
+            "file_id": "BAACAgUAAxkBAAM6Z6wY-EEOXl217Ques6lVq_EKr94AApURAAIC3GFVHPzrSUvsH1w2BA",
+            "size": "40.4 MB"
+          },
+          "1080p": {
+            "file_id": "BAACAgUAAxkBAAM9Z6wZAAF0Tv3bBvYapmAnUFwDx-HAAAKWEQACAtxhVU0swG13JeltNgQ",
+            "size": "162.9 MB"
+          }
+        },
+        "4": {
+          "360p": {
+            "file_id": "BAACAgUAAxkBAANaZ6waLFnQL0IsouNaiJ4ByjoeHbUAAqARAAIC3GFV0ECUOkNEAAHJNgQ",
+            "size": "31.1 MB"
+          },
+          "720p": {
+            "file_id": "BAACAgUAAxkBAANdZ6waQ9ucRiNNUi_2oPY28ef3Re4AAqERAAIC3GFV-o85jggrWr82BA",
+            "size": "94.8 MB"
+          },
+          "1080p": {
+            "file_id": "BAACAgUAAxkBAANgZ6waTUHadvppsDyWa179bmggVQcAAqIRAAIC3GFVc7l5yxiOG6M2BA",
+            "size": "176.5 MB"
+          }
+        }
+      },
+      "s2": {
+        "1": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAN9Z7H9zp1svuQEBIKJUM3VlIa-uSYAAnoTAAKnE5FVfqh0YBv3Fa02BA",
+            "size": "130.7 MB"
+          }
+        },
+        "2": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAOFZ7H98TMwCuM-hEsqF_BaEgSa2mEAAnwTAAKnE5FVarzz8H20usE2BA",
+            "size": "119.6 MB"
+          }
+        },
+        "3": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAONZ7H-AAH01JLw-GjE8zjdXuhn_PDJAAJ9EwACpxORVXuJcLvk5WiONgQ",
+            "size": "112.4 MB"
+          }
+        },
+        "4": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAORZ7H-Dz60rS6AD8q1ksE8WnzzgKcAAn4TAAKnE5FVQXcjrSMzX7I2BA",
+            "size": "119.0 MB"
+          }
+        },
+        "5": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAOVZ7H-RmYoFZC6KHRQIgXZEOVr7bMAAn8TAAKnE5FVRj4uSTmTHjM2BA",
+            "size": "151.9 MB"
+          }
+        },
+        "6": {
+          "1080p": {
+            "file_id": "BQACAgUAAxkBAAOZZ7H-U6bzhX8SmQ6fyJtPQs1DqJsAAoATAAKnE5FVPwK7qK4ePks2BA",
+            "size": "122.0 MB"
+          }
+        }
+      }
+    },
+    "new anime" : {
+      
+    }    
+  }
+}
