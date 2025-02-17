@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="src/css/admin.css">
+</head>
+<body>
+    <div class="admin-container">
+        <h1>Admin Panel</h1>
+
+        <!-- Add Anime Section -->
+        <section>
+            <h2>Add Anime</h2>
+            <form id="add-anime-form">
+                <input type="text" id="anime-name" placeholder="Anime Name" required>
+                <textarea id="anime-data" placeholder="Anime Data (JSON format)" required></textarea>
+                <button type="submit">Add Anime</button>
+            </form>
+        </section>
+
+        <!-- Delete Anime Section -->
+        <section>
+            <h2>Delete Anime</h2>
+            <input type="text" id="anime-name-to-delete" placeholder="Anime Name to Delete" required>
+            <button id="delete-anime-btn">Delete Anime</button>
+        </section>
+
+        <!-- Search Anime Section -->
+        <section>
+            <h2>Search Anime</h2>
+            <input type="text" id="anime-search" placeholder="Search Anime">
+            <button id="search-anime-btn">Search</button>
+            <ul id="search-results"></ul>
+        </section>
+
+        <!-- Edit Anime Section -->
+        <section>
+            <h2>Edit Anime</h2>
+            <form id="edit-anime-form">
+                <input type="text" id="anime-name-to-edit" placeholder="Anime Name to Edit" required>
+                <textarea id="new-anime-data" placeholder="New Anime Data (JSON format)" required></textarea>
+                <button type="submit">Edit Anime</button>
+            </form>
+        </section>
+
+        <!-- Anime List Section -->
+        <section>
+            <h2>Anime List</h2>
+            <ul id="anime-list"></ul>
+        </section>
+    </div>
+
+    <script src="src/js/admin.js"></script>
+</body>
+</html>
